@@ -1,0 +1,9 @@
+[submodule "cli-centos-dev"]
+	path = cli-centos-dev
+	url = ./cli-centos-dev
+[submodule "cli-ubuntu-dev"]
+	path = cli-ubuntu-dev
+	url = ./cli-ubuntu-dev
+[submodule "cli-osx-dev"]
+	path = cli-osx-dev
+	url = ./cli-osx-dev
